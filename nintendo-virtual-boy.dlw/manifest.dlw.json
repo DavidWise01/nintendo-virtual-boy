@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "NINTENDO VIRTUAL BOY",
+  "universe": "VB · NINTENDO VIRTUAL BOY (exereunesis · the teardown)",
+  "emergence": "",
+  "moniker": "⟦NINTENDO VIRTUAL BOY:VB:855cdb⟧",
+  "carbon": "nintendo-virtual-boy.carbon.tiff (TIFF)",
+  "silicon": "nintendo-virtual-boy.silicon.png (PNG)",
+  "seal_sha256": "936653a4f9af811d968cd534ff56cce06ce82994f939976daa336663c229a090",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

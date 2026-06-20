@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of The V810
+node VB · VB · ⟦The V810:VB:be5d2a⟧
+
+WHO   — The V810 — NEC's 32-bit core · electrical
+WHAT  — NEC's 32-bit core · electrical
+WHERE — VB · NINTENDO VIRTUAL BOY (exereunesis · the teardown)  Framework inputs: chip; bus; spec  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — A NEC V810 RISC processor at 20 MHz — capable of real-time 3-D wireframe and sprite rendering, the brain behind the red world.
+HOW   — Rendered from the public technical record.
+
+awareness — what the node knows of itself:
+  NEC's 32-bit core · electrical
+
+spoken token : phaend-ru-phirn   ·   hex : be5d2a
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

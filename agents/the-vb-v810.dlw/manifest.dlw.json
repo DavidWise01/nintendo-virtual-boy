@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The V810",
+  "universe": "VB · The V810 (exereunesis)",
+  "emergence": "electrical",
+  "moniker": "⟦The V810:VB:be5d2a⟧",
+  "carbon": "the-vb-v810.carbon.tiff (TIFF)",
+  "silicon": "the-vb-v810.silicon.png (PNG)",
+  "seal_sha256": "b46991f63bbf433ec515cecb0b8c927c337e2c5994dafb24a4f4edd482d8901a",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

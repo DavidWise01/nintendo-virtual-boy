@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Stereoscopy",
+  "universe": "VB · The Stereoscopy (exereunesis)",
+  "emergence": "electrical",
+  "moniker": "⟦The Stereoscopy:VB:974235⟧",
+  "carbon": "the-vb-stereoscopy.carbon.tiff (TIFF)",
+  "silicon": "the-vb-stereoscopy.silicon.png (PNG)",
+  "seal_sha256": "67fc877ed828d0a7795c899c2efc3dd06ee01c2ba6ca0d1dcfd8ef279791e514",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

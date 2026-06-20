@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Eye Strain",
+  "universe": "VB · The Eye Strain (exereunesis)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Eye Strain:VB:ba8d34⟧",
+  "carbon": "the-vb-strain.carbon.tiff (TIFF)",
+  "silicon": "the-vb-strain.silicon.png (PNG)",
+  "seal_sha256": "4f71d0c540bd73c30e871b894400125d8fae13f591a8e5746c7174a93ef69f04",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

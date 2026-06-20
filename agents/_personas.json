@@ -1,0 +1,44 @@
+[
+  {
+    "slug": "the-vb-v810",
+    "name": "The V810",
+    "epithet": "NEC's 32-bit core · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The V810:VB:be5d2a⟧"
+  },
+  {
+    "slug": "the-vb-displays",
+    "name": "The Red Displays",
+    "epithet": "depth in red · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦The Red Displays:VB:4eb026⟧"
+  },
+  {
+    "slug": "the-vb-stereoscopy",
+    "name": "The Stereoscopy",
+    "epithet": "a different image per eye · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The Stereoscopy:VB:974235⟧"
+  },
+  {
+    "slug": "the-vb-stand",
+    "name": "The Stand",
+    "epithet": "leaned into, not worn · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The Stand:VB:849657⟧"
+  },
+  {
+    "slug": "the-vb-strain",
+    "name": "The Eye Strain",
+    "epithet": "why it didn't last · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The Eye Strain:VB:ba8d34⟧"
+  },
+  {
+    "slug": "the-gunpei-yokoi",
+    "name": "Gunpei Yokoi",
+    "epithet": "the Game Boy genius · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦Gunpei Yokoi:VB:cc46db⟧"
+  }
+]
