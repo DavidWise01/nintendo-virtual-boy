@@ -4,6 +4,6 @@ slug  : nintendo-virtual-boy
 seal  : 936653a4f9af811d968cd534ff56cce06ce82994f939976daa336663c229a090
 prev  : e4e2b713b1cd88a88f72d0eb897da0c5794c499e0a018ef3386c5a098020ea0f
 link  : 1dda030c68f6cc46712bd7cd80b7dfba073878bbf5837f3656d69994cb9f536a
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
